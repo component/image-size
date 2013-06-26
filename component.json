@@ -1,0 +1,21 @@
+{
+  "name": "image-size",
+  "version": "0.0.1",
+  "description": "Get the dimensions of an image from a file input",
+  "repo": "discore/image-size",
+  "dependencies": {
+    "component/jpeg-size": "*",
+    "component/png-size": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jpeg",
+    "png",
+    "image",
+    "dimensions"
+  ],
+}
