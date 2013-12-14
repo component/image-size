@@ -1,8 +1,8 @@
 {
   "name": "image-size",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get the dimensions of an image from a file input",
-  "repo": "discore/image-size",
+  "repo": "component/image-size",
   "dependencies": {
     "component/jpeg-size": "*",
     "component/png-size": "*"
